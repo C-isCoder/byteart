@@ -1,4 +1,4 @@
-baseURL = "www.byteart.net"
+baseURL = "/"
 languageCode = "en-us"
 title = "byteart"
 themesDir = "themes"
