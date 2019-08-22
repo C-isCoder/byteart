@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>团队 on byteart</title>
-    <link>https://byteart.cf/team/</link>
+    <link>/team/</link>
     <description>Recent content in 团队 on byteart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2019 10:47:58 +1000</lastBuildDate>
     
-	<atom:link href="https://byteart.cf/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>丛晓丹</title>
-      <link>https://byteart.cf/team/cong-xiao-dan/</link>
+      <link>/team/cong-xiao-dan/</link>
       <pubDate>Wed, 21 Aug 2019 10:47:58 +1000</pubDate>
       
-      <guid>https://byteart.cf/team/cong-xiao-dan/</guid>
+      <guid>/team/cong-xiao-dan/</guid>
       <description>毕业于中国石油大学（华东），先后带过 2 家公司，5 年的工作经验，负责公司基础架构维护和 Android APP 开发工作。比较擅长中小型项目的服务端架构，能写 Goalng、Java、Kotlin 等多门语言，也能做一些前端页面的工作，信仰全栈(干)开发。
 我一直认为软件行业也属于服务行业，所以我将致力于提供更好的服务给客户，希望我在软件领域的专长能让您省心省力。</description>
     </item>
     
     <item>
       <title>付贞金</title>
-      <link>https://byteart.cf/team/fu-zhenjin/</link>
+      <link>/team/fu-zhenjin/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://byteart.cf/team/fu-zhenjin/</guid>
+      <guid>/team/fu-zhenjin/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>崔熙</title>
-      <link>https://byteart.cf/team/cui-xi/</link>
+      <link>/team/cui-xi/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://byteart.cf/team/cui-xi/</guid>
+      <guid>/team/cui-xi/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>徐汉玉</title>
-      <link>https://byteart.cf/team/xu-han-yu/</link>
+      <link>/team/xu-han-yu/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://byteart.cf/team/xu-han-yu/</guid>
+      <guid>/team/xu-han-yu/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
