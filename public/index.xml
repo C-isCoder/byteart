@@ -2,113 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on byteart</title>
-    <link>/</link>
+    <link>https://byteart.cf/</link>
     <description>Recent content in 首页 on byteart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2019 10:47:58 +1000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://byteart.cf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>丛晓丹</title>
-      <link>/team/cong-xiao-dan/</link>
+      <link>https://byteart.cf/team/cong-xiao-dan/</link>
       <pubDate>Wed, 21 Aug 2019 10:47:58 +1000</pubDate>
       
-      <guid>/team/cong-xiao-dan/</guid>
+      <guid>https://byteart.cf/team/cong-xiao-dan/</guid>
       <description>毕业于中国石油大学（华东），先后带过 2 家公司，5 年的工作经验，负责公司基础架构维护和 Android APP 开发工作。比较擅长中小型项目的服务端架构，能写 Goalng、Java、Kotlin 等多门语言，也能做一些前端页面的工作，信仰全栈(干)开发。
 我一直认为软件行业也属于服务行业，所以我将致力于提供更好的服务给客户，希望我在软件领域的专长能让您省心省力。</description>
     </item>
     
     <item>
       <title>手机APP开发</title>
-      <link>/services/app/</link>
+      <link>https://byteart.cf/services/app/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/app/</guid>
+      <guid>https://byteart.cf/services/app/</guid>
       <description>拥有专业、熟练的Android、ios、后台开发团队，可根据客户需求开发各种手机APP应用，如地图定位、地图轨迹、手写板、拍照、视频、APP购物系统、销售或售后管理系统等等。</description>
     </item>
     
     <item>
       <title>付贞金</title>
-      <link>/team/fu-zhenjin/</link>
+      <link>https://byteart.cf/team/fu-zhenjin/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>/team/fu-zhenjin/</guid>
+      <guid>https://byteart.cf/team/fu-zhenjin/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>崔熙</title>
-      <link>/team/cui-xi/</link>
+      <link>https://byteart.cf/team/cui-xi/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>/team/cui-xi/</guid>
+      <guid>https://byteart.cf/team/cui-xi/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>徐汉玉</title>
-      <link>/team/xu-han-yu/</link>
+      <link>https://byteart.cf/team/xu-han-yu/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>/team/xu-han-yu/</guid>
+      <guid>https://byteart.cf/team/xu-han-yu/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>微信应用开发</title>
-      <link>/services/wechat/</link>
+      <link>https://byteart.cf/services/wechat/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/wechat/</guid>
+      <guid>https://byteart.cf/services/wechat/</guid>
       <description>基于微信公众号开发各种应用，如： 微信网站、微信商城、微信订餐、微信预订、微信三维全景展示、微信OA等。 微信营销互动游戏，如：大转盘、刮刮卡、转盘抽奖、猜谜、红包、投票等。 微信深度定制，如微信会员系统，微信对接ERP、内网OA等。</description>
     </item>
     
     <item>
       <title>物联网 Iot</title>
-      <link>/services/iot/</link>
+      <link>https://byteart.cf/services/iot/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/iot/</guid>
+      <guid>https://byteart.cf/services/iot/</guid>
       <description>TODO&amp;hellip;</description>
     </item>
     
     <item>
       <title>网站平台开发</title>
-      <link>/services/web-development/</link>
+      <link>https://byteart.cf/services/web-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/services/web-development/</guid>
+      <guid>https://byteart.cf/services/web-development/</guid>
       <description>各种综合网站平台、行业网站、门户网站、电子商务网站、政务网站、景区网站开发。</description>
     </item>
     
     <item>
       <title>软件定制开发</title>
-      <link>/services/app-customer/</link>
+      <link>https://byteart.cf/services/app-customer/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/services/app-customer/</guid>
+      <guid>https://byteart.cf/services/app-customer/</guid>
       <description>拥有专业成熟的C/S 和B/S开发团队，可以为您定制开发各种管理软件、应用软件，如：流程管理软件、ERP/SAP二次开发、生产管理、物流管理等整体解决方案。</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>/about/</link>
+      <link>https://byteart.cf/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://byteart.cf/about/</guid>
       <description>字节艺术成立于 2019 年中，在互联大环境不是很理想的情况下，我们诞生了。
 字节艺术团队人员凭借雄厚的技术实力和丰富的行业经验聚焦手机APP开发、手机游戏开发、微信开发、软件定制开发等重点区域，构建起从咨询、规划、实施到运维的信息化建设全生命周期产业链，可客户提供一体化信息技术服务。 昨天、今天、明天，实创科技满怀着“做行业领先的中国信息技术服务企业”的坚定信念，将继续秉承“勇于创新、求真务实、开创进取”的发展理念，肩负“效益回 馈客户、信息服务社会、发展情系员工”的企业使命，迎接新的机遇与挑战，为促进互赢合作，加快中国信息化发展，续写新的华彩篇章！</description>
     </item>
     
     <item>
       <title>联系我们</title>
-      <link>/contact/</link>
+      <link>https://byteart.cf/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://byteart.cf/contact/</guid>
       <description>👏欢迎广大客户联系我们。
    ⏰工作时间: ⌛     星期一 上午8:30 - 下午5:30   星期二 上午8:30 - 下午5:30   星期三 上午8:30 - 下午5:30   星期四 上午8:30 - 下午5:30   星期五 上午8:30 - 下午5:30   星期六 上午8:30 - 下午5:30   星期日 休息    </description>
     </item>
